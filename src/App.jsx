@@ -19,7 +19,7 @@ function App() {
 
   // Update document title
   useEffect(() => {
-    document.title = "John Doe | Frontend Developer & UI/UX Designer";
+    document.title = "Sukhendu Mandal - Portfolio";
     
     // Smooth scroll for anchor links
     const handleAnchorClick = (e) => {

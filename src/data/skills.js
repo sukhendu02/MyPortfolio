@@ -24,6 +24,7 @@ export const skills = [
   
   // Other
   { id: 23, name: 'SQL', category: 'other', level: 4 },
+  { id: 18, name: 'Selenium', category: 'other', level: 3.5 },
   { id: 20, name: 'Git', category: 'other', level: 3 },
   { id: 19, name: 'Agile', category: 'other', level: 3 },
   { id: 21, name: 'Jest/Testing', category: 'other', level: 3 },
